@@ -3,11 +3,11 @@ body {
     text-align: center; /* Centraliza o conteúdo da página */
     margin: 0;
     padding: 0;
-    background-color: ivory;
+    background-color: #f4f4f4;
    }
    /* Estiliza o cabeçalho */
    h1 {
-    background-color: #333;
+    background-color: darkred;
     color: white;
     padding: 10px 0;
     margin: 0 0 20px;
@@ -18,7 +18,7 @@ body {
    }
    /* Estiliza os botões do menu */
    #menu button {
-    background-color: #333;
+    background-color: darkred;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -27,7 +27,7 @@ body {
    }
    
    #menu button:hover {
-    background-color: #555;
+    background-color: #ca0808;
    }
    /* Estiliza os containers de formulário */
    .form-container {
@@ -42,7 +42,7 @@ body {
    }
    /* Estiliza o botão de submissão */
    button {
-    background-color: #333;
+    background-color: darkred;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -50,7 +50,7 @@ body {
     cursor: pointer;
    }
    button:hover {
-    background-color: #555;
+    background-color: #ca0808;
    }
    /* Estiliza a lista de livros */
    #book-list, #apagar-list {
